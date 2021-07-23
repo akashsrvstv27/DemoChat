@@ -2,7 +2,7 @@
   "name": "demochat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{akashsrvstv27}.github.io/{Github-repo-name}",
+  "homepage": "http://{akashsrvstv27}.github.io/{DemoChat}",
   "dependencies": {
     "-": "^0.0.1",
     "@material-ui/icons": "^4.11.2",
