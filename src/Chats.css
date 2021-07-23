@@ -1,0 +1,112 @@
+@media only screen and (max-width:550px)
+{
+    
+}
+
+
+.chats__container{
+    width: 75%;
+    height: 100vh;
+    background: url("https://i.pinimg.com/originals/58/c3/33/58c33377dfcbb3022493dec49d098b02.jpg");
+    
+    
+}
+
+
+
+.input__field{
+    display: flex;
+    width: 70%;
+    position: fixed;
+    bottom: 1vh;
+    padding: 10px;
+    
+    
+    
+    
+}
+
+
+
+.input__message{
+    
+    flex: 1;
+    padding: 15px;
+    background-color: rgb(236, 235, 233);
+    
+}
+
+.input__button{
+    border: 0.1px solid black;
+    margin-left: 10px;
+    background-color: rgb(22, 152, 228);
+}
+
+
+.avatar__container{
+   
+    display: flex;
+    margin-left: 15px;
+    
+}
+
+.name{
+    margin-left: 10px;
+    font-size: 17px;
+    
+}
+
+.avatar_box{
+    background-color: rgb(15, 154, 235);
+    padding: 10px;
+    color: white;
+    
+}
+
+.avatar_box p{
+    margin-top: -10px;
+    margin-left: 15px;
+    
+}
+
+
+.chatScreen__message{
+    display: flex;
+    align-items: center;
+    
+}
+
+.chatScreen__text{
+    background-color: rgb(45, 163, 45);
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    border-radius: 15px;
+    
+    
+}
+
+.chatScreen__textUser{
+    background-color: rgb(22, 152, 228);
+    color: white;
+    padding: 10px;
+    margin-left: auto;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.chatScreen__image{
+    margin-left: 10px;
+}
+
+
+.chat__screen{
+    border-left: 1px solid black;
+    
+    height: 72%;
+    background: url("https://i.pinimg.com/originals/58/c3/33/58c33377dfcbb3022493dec49d098b02.jpg");
+    overflow-y: scroll;
+    
+    
+}
+
