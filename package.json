@@ -1,8 +1,8 @@
 {
   "name": "demochat",
+  "homepage": "https://akashsrvstv27.github.io/DemoChat"
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{akashsrvstv27}.github.io/{DemoChat}",
   "dependencies": {
     "-": "^0.0.1",
     "@material-ui/icons": "^4.11.2",
@@ -20,8 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+	"predeploy": "npm run build",
+	"deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
